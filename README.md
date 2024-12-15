@@ -45,7 +45,8 @@
 
 ### Why I Made the Leap to a Split Keyboard?
 
-![fifi-chocofi-split-keyboard](https://github.com/user-attachments/assets/61fff5b5-7b8e-484a-8fb2-74a504b34fe2)
+
+![11B1429A-7A96-4863-BFDE-FD0C30AD59E5_1_201_a](https://github.com/user-attachments/assets/541db401-17e5-4a73-a8b1-d974b521657e)
 
 For the longest time, I was content with my Nuphy Air 60 v1 keyboard. Then one day, for no particular reason (let’s just say my inner child took over 🤣), I upgraded to the v2 model. Life was good—I had a stylish, compact keyboard that got the job done.
 
