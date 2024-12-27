@@ -44,7 +44,7 @@
 ###
 
 ## Why I Made the Leap to a Split Keyboard?
-
+### [Check out my QMK Config here](https://github.com/ryanjayleyva/qmk-fifi-chocofi)
 
 ![11B1429A-7A96-4863-BFDE-FD0C30AD59E5_1_201_a](https://github.com/user-attachments/assets/541db401-17e5-4a73-a8b1-d974b521657e)
 
