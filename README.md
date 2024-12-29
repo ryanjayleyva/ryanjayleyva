@@ -1,6 +1,6 @@
 ###
 
-# Hey there! I'm RJ 👋
+# Hey there! I'm RJ 👋🏻
 
 `Consultant/Digital Enthusiast`
 
@@ -43,36 +43,37 @@
 
 ###
 
-## Why I Made the Leap to a Split Keyboard?
-### [Check out my QMK Config here](https://github.com/ryanjayleyva/qmk-fifi-chocofi)
+# Why I Made the Leap to a Split Keyboard? 🤔
 
 ![11B1429A-7A96-4863-BFDE-FD0C30AD59E5_1_201_a](https://github.com/user-attachments/assets/541db401-17e5-4a73-a8b1-d974b521657e)
 
-### For the longest time, I was content with my Nuphy Air 60 v1 keyboard. Then one day, for no particular reason (let’s just say my inner child took over 🤣), I upgraded to the v2 model. Life was good—I had a stylish, compact keyboard that got the job done.
+## [Check out my Fifi Chocofi QMK Config here](https://github.com/ryanjayleyva/qmk-fifi-chocofi)
 
-### Everything changed when I started learning to code. At the beginning of my journey into HTML and CSS, I was incredibly motivated and eager to learn. I spent 8 hours a day, consistently, for two straight months, reading documentation, writing code, and practicing. But soon, the enthusiasm came with a cost. I began to notice finger fatigue creeping in. My hands started feeling numb after prolonged typing sessions, my typing speed slowed down significantly, and, worst of all, there was a growing disconnect between my brain and my hands. It felt like my body was actively resisting the work I wanted to do.
+For the longest time, I was content with my Nuphy Air 60 v1 keyboard. Then one day, for no particular reason (let’s just say my inner child took over 🤣), I upgraded to the v2 model. Life was good—I had a stylish, compact keyboard that got the job done.
 
-### Eventually, I realized I needed to take a break and reevaluate my setup before continuing with JavaScript. If I thought I was spending a lot of time on the computer now, I knew it would only increase once I dived deeper into programming. (Though let me tell you—JavaScript turned out to be so challenging that it had me questioning if coding was even for me 🤣.)
+Everything changed when I started learning to code. At the beginning of my journey into HTML and CSS, I was incredibly motivated and eager to learn. I spent 8 hours a day, consistently, for two straight months, reading documentation, writing code, and practicing. But soon, the enthusiasm came with a cost. I began to notice finger fatigue creeping in. My hands started feeling numb after prolonged typing sessions, my typing speed slowed down significantly, and, worst of all, there was a growing disconnect between my brain and my hands. It felt like my body was actively resisting the work I wanted to do.
 
-### Determined to fix the issue, I started looking for ways to make typing more efficient and ergonomic. My first step was switching from the QWERTY layout to Colemak. It took me about one or two weeks to adjust, but the difference was night and day. With Colemak, finger movements are significantly reduced compared to QWERTY, which makes typing much more comfortable. However, I soon realized that while Colemak helped, it wasn’t enough. My fingers still had to travel a lot because of the layout I was used to, especially for common shortcuts and symbols.
+Eventually, I realized I needed to take a break and reevaluate my setup before continuing with JavaScript. If I thought I was spending a lot of time on the computer now, I knew it would only increase once I dived deeper into programming. (Though let me tell you—JavaScript turned out to be so challenging that it had me questioning if coding was even for me 🤣.)
 
-### That’s when I learned I could customize my keyboard layout. Using VIA software with my Nuphy keyboard, I started experimenting with remapping keys. I discovered the concept of Home Row mods—a feature that allows you to trigger additional functions by holding down keys on the home row. It was a game-changer. Suddenly, I was able to eliminate unnecessary finger movements and reduce strain.
+Determined to fix the issue, I started looking for ways to make typing more efficient and ergonomic. My first step was switching from the QWERTY layout to Colemak. It took me about one or two weeks to adjust, but the difference was night and day. With Colemak, finger movements are significantly reduced compared to QWERTY, which makes typing much more comfortable. However, I soon realized that while Colemak helped, it wasn’t enough. My fingers still had to travel a lot because of the layout I was used to, especially for common shortcuts and symbols.
 
-### At first, adapting to this new setup was incredibly frustrating. My brain, accustomed to decades of traditional typing, struggled to adjust. Typing felt slow and awkward, and there were moments when I wanted to revert to my old habits. But I knew that persistence would pay off, and after about three weeks of practice, I finally got comfortable with my new layout. The results were worth it—typing was smoother, more efficient, and far less tiring than before.
+That’s when I learned I could customize my keyboard layout. Using VIA software with my Nuphy keyboard, I started experimenting with remapping keys. I discovered the concept of Home Row mods—a feature that allows you to trigger additional functions by holding down keys on the home row. It was a game-changer. Suddenly, I was able to eliminate unnecessary finger movements and reduce strain.
 
-### I thought I had solved my ergonomic challenges, but I realized one more issue to address: the staggered layout of traditional keyboards. Designed with typewriters in mind, this layout offsets keys unevenly, forcing hands into unnatural movements. It felt counterintuitive, especially since I was actively trying to minimize hand travel.
+At first, adapting to this new setup was incredibly frustrating. My brain, accustomed to decades of traditional typing, struggled to adjust. Typing felt slow and awkward, and there were moments when I wanted to revert to my old habits. But I knew that persistence would pay off, and after about three weeks of practice, I finally got comfortable with my new layout. The results were worth it—typing was smoother, more efficient, and far less tiring than before.
 
-### This realization led me to research ergonomic keyboards. My goal was to find a compact keyboard that fit my needs better than the Nuphy Air 60. Initially, I considered the Dygma Defy, which looked promising, but it was expensive and had more keys than needed. Then I discovered the Corne keyboard—a minimalist, split keyboard that was ergonomic and compact. The catch? It required soldering to assemble.
+I thought I had solved my ergonomic challenges, but I realized one more issue to address: the staggered layout of traditional keyboards. Designed with typewriters in mind, this layout offsets keys unevenly, forcing hands into unnatural movements. It felt counterintuitive, especially since I was actively trying to minimize hand travel.
 
-### Thankfully, soldering wasn’t a deal-breaker for me. I’ve always been passionate about cars, and my experience with air suspension systems taught me a lot about soldering. So, with confidence and excitement, I continued my search.
+This realization led me to research ergonomic keyboards. My goal was to find a compact keyboard that fit my needs better than the Nuphy Air 60. Initially, I considered the Dygma Defy, which looked promising, but it was expensive and had more keys than needed. Then I discovered the Corne keyboard—a minimalist, split keyboard that was ergonomic and compact. The catch? It required soldering to assemble.
 
-### Eventually, I found the Fiifi Chocofi—a 36-key split keyboard that seemed perfect. It’s ultra-minimal, highly ergonomic, and compact enough to suit my needs. For the first time, I felt like I had a setup that supported long coding sessions without compromising comfort or efficiency.
+Thankfully, soldering wasn’t a deal-breaker for me. I’ve always been passionate about cars, and my experience with air suspension systems taught me a lot about soldering. So, with confidence and excitement, I continued my search.
 
-### I’ll be diving deeper into this experience on my blog, which I’m currently building. I’m still deciding between React, Next.js, and Svelte for the blog’s framework, but I’m leaning toward Svelte—it’s beginner-friendly and easier for someone like me who’s still learning the ropes.
+Eventually, I found the Fiifi Chocofi—a 36-key split keyboard that seemed perfect. It’s ultra-minimal, highly ergonomic, and compact enough to suit my needs. For the first time, I felt like I had a setup that supported long coding sessions without compromising comfort or efficiency.
+
+I’ll be diving deeper into this experience on my blog, which I’m currently building. I’m still deciding between React, Next.js, and Svelte for the blog’s framework, but I’m leaning toward Svelte—it’s beginner-friendly and easier for someone like me who’s still learning the ropes.
 
 
-## Is Upgrading to Air Suspension a Game-Changer for Your Ride?
+# Is Upgrading to Air Suspension a Game-Changer for Your Ride? 💬
 
 ![Teacup-DBTK](https://github.com/user-attachments/assets/32e2743e-854a-45d1-b5fc-ed85d004740b)
 
-### No air, no life. Is air suspension worth it? Stay tuned—I’ll dive into this and more once I finish building my blog. I’m also planning to cover topics related to my work as a consultant, like working from home, getting paid what you deserve, and much more. And of course, I’ll share insights about my latest passions: coding, Neovim, keyboards, and beyond.
+No air, no life. Is air suspension worth it? Stay tuned—I’ll dive into this and more once I finish building my blog. I’m also planning to cover topics related to my work as a consultant, like working from home, getting paid what you deserve, and much more. And of course, I’ll share insights about my latest passions: coding, Neovim, keyboards, and beyond.
