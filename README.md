@@ -4,9 +4,9 @@
 
 `Consultant/Digital Enthusiast`
 
-### I’m a consultant turned digital enthusiast. Right now, I am exploring the trinity of front-end development with React. Recently, I’ve immersed myself in the fascinating world of ergonomic split keyboards. Currently, I am using a 36-key Fifi Chocofi from Next Keyboard Club, but I plan to transition to a 34-key Ferris Sweep or Urchin for a more minimalist and ergonomic experience. This passion has inspired me to learn the basics of C, enabling me to create my keyboard layouts using QMK and ZMK firmware.
+I’m a consultant turned digital enthusiast. Right now, I am exploring the trinity of front-end development with React. Recently, I’ve immersed myself in the fascinating world of ergonomic split keyboards. Currently, I am using a 36-key Fifi Chocofi from Next Keyboard Club, but I plan to transition to a 34-key Ferris Sweep or Urchin for a more minimalist and ergonomic experience. This passion has inspired me to learn the basics of C, enabling me to create my keyboard layouts using QMK and ZMK firmware.
 
-### Learning to code has been challenging at times, but it’s also rewarding. It has introduced me to various programming languages and tools, including JavaScript, C (for custom keyboard layouts), and markup languages like HTML, CSS, and Markdown (for my note-taking app). I’ve also explored Lua for configuring Neovim, and I’m excited to see where this journey will take me.
+Learning to code has been challenging at times, but it’s also rewarding. It has introduced me to various programming languages and tools, including JavaScript, C (for custom keyboard layouts), and markup languages like HTML, CSS, and Markdown (for my note-taking app). I’ve also explored Lua for configuring Neovim, and I’m excited to see where this journey will take me.
 
 ###
 
