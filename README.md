@@ -43,11 +43,11 @@ Learning to code has been challenging at times, but it’s also rewarding. It ha
 
 ###
 
-# Why I Made the Leap to a Split Keyboard? 🤔
+## Why I Made the Leap to a Split Keyboard? 🤔
 
 ![11B1429A-7A96-4863-BFDE-FD0C30AD59E5_1_201_a](https://github.com/user-attachments/assets/541db401-17e5-4a73-a8b1-d974b521657e)
 
-## [Check out my Fifi Chocofi QMK Config here](https://github.com/ryanjayleyva/qmk-fifi-chocofi)
+### [Check out my Fifi Chocofi QMK Config here](https://github.com/ryanjayleyva/qmk-fifi-chocofi)
 
 For the longest time, I was content with my Nuphy Air 60 v1 keyboard. Then one day, for no particular reason (let’s just say my inner child took over 🤣), I upgraded to the v2 model. Life was good—I had a stylish, compact keyboard that got the job done.
 
@@ -72,7 +72,7 @@ Eventually, I found the Fiifi Chocofi—a 36-key split keyboard that seemed perf
 I’ll be diving deeper into this experience on my blog, which I’m currently building. I’m still deciding between React, Next.js, and Svelte for the blog’s framework, but I’m leaning toward Svelte—it’s beginner-friendly and easier for someone like me who’s still learning the ropes.
 
 
-# Is Upgrading to Air Suspension a Game-Changer for Your Ride? 💬
+## Is Upgrading to Air Suspension a Game-Changer for Your Ride? 💬
 
 ![Teacup-DBTK](https://github.com/user-attachments/assets/32e2743e-854a-45d1-b5fc-ed85d004740b)
 
